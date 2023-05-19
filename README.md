@@ -1,2 +1,2 @@
 #Javascript cool algorithms, challenges from freecodecamp one of the best coding platform
-https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif
+![](https://github.com/expo180/Javascript_algorithms/blob/main/giphy.gif)
